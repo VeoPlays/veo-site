@@ -1,6 +1,3 @@
-## Dis my site
-
-Current Projects:
 # MagiQuest: Forgotten Realms:
 
 - **Current Build (Windows/Linux)**
