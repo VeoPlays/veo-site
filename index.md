@@ -1,6 +1,7 @@
 # MagiQuest: Forgotten Realms:
 
 - **Current Build (Windows/Linux)**
+[Screenshots, WIP Version](https://imgur.com/a/P1FAXhy)
 [Link](https://mega.nz/#!GQFDySjb!5PKQ6gmoTu2qIN9t7Q3OtbvQUjd16PUP10GVMZP-rDg)
 
 # MOULa H-Uru Client (always up to date):
