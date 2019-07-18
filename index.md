@@ -7,7 +7,7 @@
 - **Current Build (Windows/Linux)**
 [Link - Courtyard QA](https://mega.nz/#!KNdiiSrI!wRTrC4TdxsOS_v6q83_ktaIZpHZBtYyacj_cYGDOXiI)
 
-# H-Uru-Veo Client (with Mirphak's py/SDL):
+# H-Uru-Veo Client (with Mirphak's py/SDL (AUGUST 2018, REPLACE "PYTHON" AND "SDL" FOLDER IF YOU GOT NEW ONES):
 - **Current Build (Windows)**
 [Link](https://mega.nz/#!rUcwXYoZ!KGTtnVzOTrHW6-U7G4TU-74Y6rtolOkOuBWJSy4wJyA)
 
