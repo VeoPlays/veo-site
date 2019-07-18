@@ -5,7 +5,7 @@
 [Screenshots, InEngine](https://imgur.com/a/ocaa6hp)
 
 - **Current Build (Windows/Linux)**
-[Link](https://mega.nz/#!GQFDySjb!5PKQ6gmoTu2qIN9t7Q3OtbvQUjd16PUP10GVMZP-rDg)
+[Link - Courtyard QA](https://mega.nz/#!KNdiiSrI!wRTrC4TdxsOS_v6q83_ktaIZpHZBtYyacj_cYGDOXiI)
 
 # MOULa H-Uru Client (always up to date):
 - **Current Build (Windows/Linux)**
