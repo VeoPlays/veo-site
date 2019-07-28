@@ -5,7 +5,7 @@
 [Screenshots, InEngine](https://imgur.com/a/ocaa6hp)
 
 - **Current Build (Windows/Linux)**
-[Link - Courtyard QA](https://mega.nz/#!KNdiiSrI!wRTrC4TdxsOS_v6q83_ktaIZpHZBtYyacj_cYGDOXiI)
+[Link - QA Build 2.0.2](https://mega.nz/#!mU8GyarI!1Ra1qwGK1mdsMnSJEUNe1iHT7FmfWx5FGWqdFPqx-K0)
 
 # H-Uru-Veo Client (with Mirphak's py/SDL (AUGUST 2018, REPLACE "PYTHON" AND "SDL" FOLDER IF YOU GOT NEW ONES):
 - **Current Build (Windows)**
